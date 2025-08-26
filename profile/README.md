@@ -27,52 +27,52 @@
 ---
 ## 🚨 문제 정의
 
-복지 서비스 신청 과정에서 다수의 이용자가 불편을 겪고 있습니다.
+- 복지 서비스 신청 과정에서 다수의 이용자가 불편을 겪고 있습니다.
 
-탐색 어려움: 내가 받을 수 있는 복지 서비스가 무엇인지 알기 힘듦
+- 탐색 어려움: 내가 받을 수 있는 복지 서비스가 무엇인지 알기 힘듦
 
-정보 접근성 부족: 정보가 여러 곳에 흩어져 있음
+- 정보 접근성 부족: 정보가 여러 곳에 흩어져 있음
 
-신청 절차 복잡: 절차가 어렵고 번거로움
+- 신청 절차 복잡: 절차가 어렵고 번거로움
 
-서류 부담: 제출해야 하는 서류가 많음
+- 서류 부담: 제출해야 하는 서류가 많음
 
-설문조사 결과: 복지 서비스 신청 경험자 중 **69.1%**가 불편함을 경험
+- 설문조사 결과: 복지 서비스 신청 경험자 중 **69.1%**가 불편함을 경험
 
 ---
 ## 🎯 서비스 목표
 
-누구나 쉽게 이해하고 신청할 수 있는 복지 서비스 안내
+- 누구나 쉽게 이해하고 신청할 수 있는 복지 서비스 안내
 
-개인 조건(나이, 소득, 가족 유형 등)에 따른 맞춤형 복지 추천
+- 개인 조건(나이, 소득, 가족 유형 등)에 따른 맞춤형 복지 추천
 
-흩어진 정보를 통합 검색 및 요약 제공
+- 흩어진 정보를 통합 검색 및 요약 제공
 
-서류 관리 및 알림 기능을 통해 신청 절차 간소화
+- 서류 관리 및 알림 기능을 통해 신청 절차 간소화
 
 ---
 ## 👥 대상 사용자
 
-복지 서비스는 많지만 어디서, 어떻게 신청해야 하는지 모르는 사람
+- 복지 서비스는 많지만 어디서, 어떻게 신청해야 하는지 모르는 사람
 
-디지털 소외 계층 (노인, 저소득층 등)
+- 디지털 소외 계층 (노인, 저소득층 등)
 
-복잡한 제도와 절차 때문에 복지를 놓치는 사람들
+- 복잡한 제도와 절차 때문에 복지를 놓치는 사람들
 
 ---
 ## 🛠 주요 기능
 
-맞춤형 복지 추천: 나이, 소득, 가족 유형 기반 추천
+- 맞춤형 복지 추천: 나이, 소득, 가족 유형 기반 추천
 
-간편 탐색: 생애주기·가구유형·관심주제별 분류
+- 간편 탐색: 생애주기·가구유형·관심주제별 분류
 
-복지 서비스 상세 안내: 지원 대상, 지원 내용, 담당 부처, 신청 바로가기
+- 복지 서비스 상세 안내: 지원 대상, 지원 내용, 담당 부처, 신청 바로가기
 
-서류함: 제출 서류 업로드/보관/만료 알림
+- 서류함: 제출 서류 업로드/보관/만료 알림
 
-마이페이지: 신청 내역 및 혜택 수령 상태 관리
+- 마이페이지: 신청 내역 및 혜택 수령 상태 관리
 
-알림 서비스: 맞춤형 혜택 알림, 신청 리마인더, 서류 만료 안내
+- 알림 서비스: 맞춤형 혜택 알림, 신청 리마인더, 서류 만료 안내
 
 ---
 ## 🎨 디자인 시스템
@@ -162,8 +162,7 @@ UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 �
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
 ### 🌐 Infra & Deployment
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)  
-![MinIO (S3 Compatible)](https://img.shields.io/badge/MinIO%20(S3%20Compatible)-C72E49?logo=minio&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white) ![MinIO (S3 Compatible)](https://img.shields.io/badge/MinIO%20(S3%20Compatible)-C72E49?logo=minio&logoColor=white)  
 ![DuckDNS](https://img.shields.io/badge/DuckDNS-2C8EBB?logo=duckduckgo&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
 ![HTTPS](https://img.shields.io/badge/HTTPS-0052CC?logo=letsencrypt&logoColor=white)  
