@@ -77,37 +77,37 @@
 ---
 ## 🎨 디자인 시스템
 
-컬러: 시니어 가시성 강화 보라색 (#7424D6), 대비비율 4.5:1 이상
+- 컬러: 시니어 가시성 강화 보라색 (#7424D6), 대비비율 4.5:1 이상
 
-폰트: Pretendard, 본문 16pt 이상 / 제목 18pt 이상
+- 폰트: Pretendard, 본문 16pt 이상 / 제목 18pt 이상
 
-UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 구조
+- UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 구조
 
 ---
 ## 📱 UX 플로우
 
-회원가입 & 로그인: 휴대폰 번호, 소셜 로그인 지원
+- 회원가입 & 로그인: 휴대폰 번호, 소셜 로그인 지원
 
-정보 입력: 소득·가족·장애/노인 조건 등
+- 정보 입력: 소득·가족·장애/노인 조건 등
 
-서비스 탐색: 조건 기반 검색 및 태그 필터링
+- 서비스 탐색: 조건 기반 검색 및 태그 필터링
 
-신청 프로세스: 서류 안내 + 신청 바로가기
+- 신청 프로세스: 서류 안내 + 신청 바로가기
 
-서류 관리: 업로드, 다운로드, 자동 만료 처리
+- 서류 관리: 업로드, 다운로드, 자동 만료 처리
 
-신청 내역 관리: 혜택 수령 여부 표시, 필터링
+- 신청 내역 관리: 혜택 수령 여부 표시, 필터링
 
 ---
 ## 🌟 기대 효과
 
-복잡한 복지 제도를 쉽게 탐색 가능
+- 복잡한 복지 제도를 쉽게 탐색 가능
 
-신청 절차 단순화로 소외계층 접근성 향상
+- 신청 절차 단순화로 소외계층 접근성 향상
 
-맞춤형 추천으로 복지 서비스 누락 최소화
+- 맞춤형 추천으로 복지 서비스 누락 최소화
 
-디지털 접근성을 고려한 포용적 플랫폼 구현
+- 디지털 접근성을 고려한 포용적 플랫폼 구현
 
 ---
 ## 📲 기능 소개 (Features)
@@ -155,6 +155,7 @@ UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 �
 ### 🔐 Security
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  
+![CORS](https://img.shields.io/badge/CORS-FF6F00?logo=icloud&logoColor=white)
 
 ### 🗄 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
