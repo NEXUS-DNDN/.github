@@ -164,6 +164,7 @@ UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 �
 ### 🌐 Infra & Deployment
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)  
 ![MinIO (S3 Compatible)](https://img.shields.io/badge/MinIO%20(S3%20Compatible)-C72E49?logo=minio&logoColor=white)
+
 ![DuckDNS](https://img.shields.io/badge/DuckDNS-2C8EBB?logo=duckduckgo&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
 ![HTTPS](https://img.shields.io/badge/HTTPS-0052CC?logo=letsencrypt&logoColor=white)  
@@ -175,9 +176,16 @@ UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 �
 ### 💻 Dev Tools
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
+
+### ⚡ CI/CD & Collaboration
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
 
 ## 🖌 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)  
 
+---
+## 📎 슬로건
+
+### "당신에게 필요한 복지, 든든하게 챙기세요"
