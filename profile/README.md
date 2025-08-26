@@ -163,7 +163,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
 ### 🌐 Infra & Deployment
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white) 
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)  
 ![MinIO (S3 Compatible)](https://img.shields.io/badge/MinIO%20(S3%20Compatible)-C72E49?logo=minio&logoColor=white)  
 ![DuckDNS](https://img.shields.io/badge/DuckDNS-2C8EBB?logo=duckduckgo&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
