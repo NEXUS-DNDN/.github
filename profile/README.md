@@ -164,7 +164,6 @@ UI 원칙: 버튼 크기 ≥ 24x24dp, 터치 간격 8~16dp, 단순·직관적 �
 ### 🌐 Infra & Deployment
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)  
 ![MinIO (S3 Compatible)](https://img.shields.io/badge/MinIO%20(S3%20Compatible)-C72E49?logo=minio&logoColor=white)
-
 ![DuckDNS](https://img.shields.io/badge/DuckDNS-2C8EBB?logo=duckduckgo&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
 ![HTTPS](https://img.shields.io/badge/HTTPS-0052CC?logo=letsencrypt&logoColor=white)  
