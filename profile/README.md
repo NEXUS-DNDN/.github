@@ -151,7 +151,8 @@
   
 ### ⚛️ Framework  
   ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFD62E)  
+  
 ### 🚀 Deployment  
   ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
 
