@@ -179,8 +179,10 @@
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)  
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)  
 
-### 💻 Dev Tools
+### 💻 Language
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+
+### 🔧 Framework
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
 
 ### ⚡ CI/CD & Collaboration
